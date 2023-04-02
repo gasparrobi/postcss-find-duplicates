@@ -13,7 +13,7 @@
   },
   "author": "Robert Gaspar <gasparrobi@gmail.com>",
   "license": "MIT",
-  "repository": "@gasparrobi/postcss-test",
+  "repository": "https://github.com/gasparrobi/postcss-find-duplicates",
   "engines": {
     "node": ">=12.0.0"
   },
