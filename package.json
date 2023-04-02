@@ -1,6 +1,6 @@
 {
   "name": "@gasparrobi/find-duplicate-classes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "PostCSS plugin for finding duplicate classes",
   "keywords": [
     "postcss",
